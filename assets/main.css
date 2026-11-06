@@ -423,3 +423,8 @@ main h2,main h3{margin-bottom:14px}
 .footer-grid .social-list a{display:inline-block;padding:6px 12px;border:1px solid #3A4247;color:#E4E8EA;font-family:var(--font-head);font-size:.84rem;line-height:1.2}
 .footer-grid .social-list a:hover{border-color:var(--amber);color:#fff}
 .footer-nap a{overflow-wrap:anywhere;word-break:break-word}
+
+/* Nov 2026: homepage neighborhood links */
+.nb-block{margin-top:28px;padding:22px 24px;border:1px solid var(--line);border-left:4px solid var(--teal);background:var(--white)}
+.nb-title{margin:0 0 8px}
+.nb-block p{margin:0 0 14px}
